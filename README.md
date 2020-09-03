@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 - 💬 Ask Me About: Anything Web Development related, science, current events, sports, poker.
 
-- Interested in learning more about: DevOps, GraphQl, Java, Space
+- Interested in learning more about: DevOps, GraphQL, Java, Space
