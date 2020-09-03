@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 <!--
 **cgiroux86/cgiroux86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # PROFILE IN DEVELOPMENT!
 
-Hi! I'm Chris Giroux, a Full Stack Software Engineer from Maryland. I 💙 wearing both hats in application development!
+👋 Hi! I'm Chris Giroux, a Full Stack Software Engineer from Maryland. I 💙 wearing both hats in application development!
 
 - 🔭 Currently Working On: API built on flask, utilizing gunicorn as WGSI, JWT's for authentication and Docker for containerization, automation.
 
