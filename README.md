@@ -1,4 +1,4 @@
-<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)<!--
 **cgiroux86/cgiroux86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 - Interested in learning more about: DevOps, GraphQL, Java, Space
 
-![Chris Giroux's](https://github-readme-stats.vercel.app/api?username=cgiroux86?theme=radical)
+[![Cgiroux86](https://github-readme-stats.vercel.app/api?username=cgiroux86?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
