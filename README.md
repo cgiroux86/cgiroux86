@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 💬 Ask Me About: Anything Web Development related, science, current events, sports, poker.
 
 - Interested in learning more about: DevOps, GraphQL, Java, Space
+
+[![Cgiroux86](https://github-readme-stats.vercel.app/api?username=cgiroux86)](https://github.com/anuraghazra/github-readme-stats)
