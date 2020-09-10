@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 - Interested in learning more about: DevOps, GraphQL, Java, Space
 
-[![Cgiroux86](https://github-readme-stats.vercel.app/api?username=cgiroux86)](https://github.com/anuraghazra/github-readme-stats)
+[![Chris Giroux's](https://github-readme-stats.vercel.app/api?username=cgiroux86)](https://github.com/anuraghazra/github-readme-stats)
