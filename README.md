@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 ### I 💙 wearing both hats in application development!
 
 
-- 🔭  Currently Working On: API built on flask, utilizing gunicorn as WGSI, JWT's for authentication and Docker for containerization, automation.
+🔭  Currently Working On: API built on flask, utilizing gunicorn as WGSI, JWT's for authentication and Docker for containerization, automation.
 
-- 🤓  Currently Learning: Typescript, Next.js, Docker, Flask, AWS, Alogrithms, Github Profile Readme
+🤓  Currently Learning: Typescript, Next.js, Docker, Flask, AWS, Alogrithms, Github Profile Readme
 
-- 💬  Ask Me About: Anything Web Development related, science, current events, sports, poker.
+💬  Ask Me About: Anything Web Development related, science, current events, sports, poker.
 
-- Interested in learning more about: DevOps, GraphQL, Java, Space
+Interested in learning more about: DevOps, GraphQL, Java, Space
 
 [![Cgiroux86](https://github-readme-stats.vercel.app/api?username=cgiroux86&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
