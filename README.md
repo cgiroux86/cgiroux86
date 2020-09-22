@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<img src="https://unsplash.com/photos/mP7aPSUm7aE" alt="image of MacBook">
+
 ## PROFILE IN DEVELOPMENT!
 
 👋 Hi! I'm Chris Giroux, a Full Stack Software Engineer from Maryland. I 💙 wearing both hats in application development!
