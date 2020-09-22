@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 
 <img width="100%" height="200px" src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="image of MacBook">
 
-## PROFILE IN DEVELOPMENT!
+## 👋 Hi! I'm Chris Giroux, a Full Stack Software Engineer from Maryland. I 💙 wearing both hats in application development!
 
-👋 Hi! I'm Chris Giroux, a Full Stack Software Engineer from Maryland. I 💙 wearing both hats in application development!
 
 - 🔭 Currently Working On: API built on flask, utilizing gunicorn as WGSI, JWT's for authentication and Docker for containerization, automation.
 
