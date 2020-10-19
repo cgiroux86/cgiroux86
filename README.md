@@ -11,22 +11,24 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-[![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fchrisgiroux.com%2F)](https://chrisgiroux.com/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 -->
 
 <img width="100%" height="200px" src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" alt="image of MacBook"/>
 
 ## 👋 Hi! I'm Chris Giroux, a Full Stack Software Engineer from Maryland.
-
+[![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fchrisgiroux.com%2F)](https://chrisgiroux.com/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="50px" height='50px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 ### I 💙 wearing both hats in application development!
 
 
+<br />
+<br />
+
+####
 [website]: https://chrisgiroux.com
 [linkedin]: https://linkedin.com/in/cgiroux1017
 
-<br />
-<br />
 
 
 
