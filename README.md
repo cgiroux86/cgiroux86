@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ## 👋 Hi! I'm Chris Giroux, a Full Stack Software Engineer from Maryland.
 ### I 💙 wearing both hats in application development!
-<br/>
-<br/>
+<br />
+<br />
 
 [website]: https://chrisgiroux.com/
 [linkedin]: https://www.linkedin.com/in/cgiroux1017/
