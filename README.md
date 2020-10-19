@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  <a href='https://chrisgiroux.com'><strong>Portfolio</strong></a>
  <a href='https://linkedin.com/in/cgiroux1017'><strong>LinkedIn</strong></a>
 </div>
-<br/>
+
 <br/>
 
 
