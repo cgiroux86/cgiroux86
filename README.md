@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## 👋 Hi! I'm Chris Giroux, a Full Stack Software Engineer from Maryland.
 ### I 💙 wearing both hats in application development!
 
-[website]: https://www.chrisgiroux.com
-[linkedin]: https://www.linkedin.com/in/cgiroux1017
+[website]: https://chrisgiroux.com/
+[linkedin]: https://www.linkedin.com/in/cgiroux1017/
 
 
 🔭  Currently Working On: API built on flask, utilizing gunicorn as WGSI, JWT's for authentication and Docker for containerization, automation.
