@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### I 💙 wearing both hats in application development!
 
-Portfolio: chrisgiroux.com
-LinkedIn:  linkedin.com/in/cgiroux1017
+[![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fchrisgiroux.com%2F)](https://chrisgiroux.com/)
+
 
 
 
