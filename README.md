@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 ### I 💙 wearing both hats in application development!
 
 ####
-
-<strong>Portfolio</strong>: <a href='chrisgiroux.com' />
+ <a href='https://chrisgiroux.com'><strong>Portfolio</strong></a>
 <br/>
-<strong>LinkedIn</strong> : <a href='linkedin.com/in/cgiroux1017' />
+ <a href='linkedin.com/in/cgiroux1017'><strong>LinkedIn</strong></a>
 
 
 
