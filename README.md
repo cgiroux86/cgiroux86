@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 
 ### I 💙 wearing both hats in application development!
 
+#### Contact
+
 [![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fchrisgiroux.com%2F)](https://chrisgiroux.com/)
 
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+[linkedin]: https://linkedin.com/in/cgiroux1017
 
 
 
