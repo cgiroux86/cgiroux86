@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### I 💙 wearing both hats in application development!
 
 ####
-<div display='flex' width='75%' justify-content='space-evenly'>
+<div margin="0 1%" display='flex' width='75%' justify-content='space-evenly'>
  <a href='https://chrisgiroux.com'><strong>Portfolio</strong></a>
  <a href='https://linkedin.com/in/cgiroux1017'><strong>LinkedIn</strong></a>
 </div>
