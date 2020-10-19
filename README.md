@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 
 ### I 💙 wearing both hats in application development!
 
-
-<br />
-<br />
-
 ####
 
 <strong>Portfolio</strong>: chrisgiroux.com
