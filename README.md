@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 
 #### Contact
 
-[![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fchrisgiroux.com%2F)](https://chrisgiroux.com/)
+<span>[![Website](https://img.shields.io/website?color=green&down_color=red&down_message=down&label=Portfolio&style=for-the-badge&up_color=green&up_message=up&url=https%3A%2F%2Fchrisgiroux.com%2F)](https://chrisgiroux.com/)</span>
+<span>[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]</span>
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[website]: https://chrisgiroux.com
-[linkedin]: https://linkedin.com/in/cgiroux1017
 
 
 
