@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ####
 
-<strong>Portfolio</strong>: <a src='chrisgiroux.com' />
+<strong>Portfolio</strong>: <a href='chrisgiroux.com' />
 <br/>
-<strong>LinkedIn</strong> : <a src='linkedin.com/in/cgiroux1017' />
+<strong>LinkedIn</strong> : <a href='linkedin.com/in/cgiroux1017' />
 
 
 
