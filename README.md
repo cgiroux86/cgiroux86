@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[website]: (https://chrisgiroux.com/)
-[linkedin]: (https://www.linkedin.com/in/cgiroux1017/)
+[website]: https://chrisgiroux.com/
+[linkedin]: https://www.linkedin.com/in/cgiroux1017/
 
 
 
